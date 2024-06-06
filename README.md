@@ -37,7 +37,7 @@ Remember that Tic-Tac-Toe is a 2 player game, so be sure to "switch" between pla
 Make it known to the user that their turn is over and it's time for the next players turn. You will both play on
 the same board.
 
- Here is an outline for different classes that you have:
+Here is an outline for different classes that you have:
 
 - Game Board (this should construct/display the board after every turn with it's new state)
 - Player (This will hold the players information such as name or marker, in addition to any
